@@ -65,3 +65,4 @@ Interne Religionskritik kritisiert spezifische religiöse Praktiken von innen he
 ### 20. Beschreibe „Fundamentale Religionskritik“ und nenne ein Beispiel.
 Fundamentale Religionskritik lehnt Religion prinzipiell ab und hält sie für grundsätzlich schädlich oder irrational. Beispiel: Richard Dawkins („Gotteswahn“).
 
+Made by fauzoid
