@@ -59,9 +59,9 @@ Dawkins kritisierte religiöse Erziehung, da sie Kindern dogmatische Vorstellung
 - **Interne Religionskritik:** Kritisiert und reformiert einzelne Praktiken innerhalb einer Religion.
 - **Fundamentale Religionskritik:** Lehnen Religion grundsätzlich als irrational und schädlich ab.
 
-### 18. Beschreibe „Interne Religionskritik“ und nenne ein Beispiel.
+### 19. Beschreibe „Interne Religionskritik“ und nenne ein Beispiel.
 Interne Religionskritik kritisiert spezifische religiöse Praktiken von innen heraus, um Reformen anzustoßen. Beispiel: Martin Luthers Kritik am Ablasshandel.
 
-### 19. Beschreibe „Fundamentale Religionskritik“ und nenne ein Beispiel.
+### 20. Beschreibe „Fundamentale Religionskritik“ und nenne ein Beispiel.
 Fundamentale Religionskritik lehnt Religion prinzipiell ab und hält sie für grundsätzlich schädlich oder irrational. Beispiel: Richard Dawkins („Gotteswahn“).
 
